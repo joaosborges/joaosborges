@@ -1,7 +1,7 @@
 # 👨‍💻 João Borges
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-schimith-borges-8aa32ba5/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/joaosborges)
 
 Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e Cloud**, com foco em automações, infraestrutura como código e ambientes na **Azure**. Tenho experiência prática com ferramentas como **PowerShell**, **Azure DevOps**, **Zabbix**, **Grafana** e bancos de dados como o **SQL Server**.
 
@@ -11,11 +11,11 @@ Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e 
 
 <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/> **Azure**   -   <img src="https://svgrepo.com/show/341632/azure-devops.svg" width="30"/> **Azure DevOps**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" width="30"/> **Azure CLI**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> **SQL Server**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/> **Azure**   -   <img src="https://svgrepo.com/show/341632/azure-devops.svg" width="30"/> **Azure DevOps**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" width="30"/> **Azure CLI**
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="30"/> **PowerShell**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30"/> **Bash**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> **GitOps**
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> **MySQL**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> **MySQL**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> **SQL Server**
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30"/> **Zabbix / Grafana**
