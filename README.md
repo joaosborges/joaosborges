@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👨‍💻 João Borges
 
-<!--
-**joaosborges/joaosborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
 
-Here are some ideas to get you started:
+Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e Cloud**, com foco em automações, infraestrutura como código e ambientes na **Azure**. Tenho experiência prática com ferramentas como **PowerShell**, **Azure DevOps**, **Zabbix**, **Grafana** e bancos de dados como o **SQL Server**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/> **Azure**   -   <img src="https://svgrepo.com/show/341632/azure-devops.svg" width="30"/> **Azure DevOps**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" width="30"/> **Azure CLI**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> **SQL Server**
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="30"/> **PowerShell**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30"/> **Bash**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> **GitOps**
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> **MySQL**
+
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30"/> **Zabbix / Grafana**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> **Docker**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> **Kubernetes**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" width="30"/> **Packer**
+
+</div>
+
+---
+
+## 📦 Projetos em destaque
+
+- **📁 [Azure Infra Provisioner](https://github.com/seu-usuario/azure-infra-provisioner)**  
+  Automação de provisionamento de infraestrutura na Azure utilizando PowerShell e templates ARM.
+
+- **📁 [DevOps Monitor Suite](https://github.com/seu-usuario/devops-monitor-suite)**  
+  Integração de Zabbix + Grafana com scripts automatizados para ambientes pequenos e médios.
+
+- **📁 [Scripts PowerShell úteis](https://github.com/seu-usuario/powershell-utilities)**  
+  Repositório com scripts de rotina para administração de sistemas e suporte.
+
+---
+
+## 📈 Em aprendizado contínuo
+
+- Terraform
+- Docker
+- GitHub Actions
+- Kubernetes (K8s)
+- Pipelines YAML avançadas no Azure DevOps
+
+---
+
+## ✉️ Contato
+
+- 📧 Email: joao.borges@email.com  
+- 🌐 LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)  
+- 💼 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+
+---
+
+<p align="center">Feito com 💙 por João Borges</p>
