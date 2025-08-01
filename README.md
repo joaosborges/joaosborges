@@ -9,6 +9,7 @@ Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e 
 
 ## 🚀 Tech Stack
 
+
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/> **Azure**   -   <img src="https://svgrepo.com/show/341632/azure-devops.svg" width="30"/> **Azure DevOps**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" width="30"/> **Azure CLI**
@@ -18,7 +19,7 @@ Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> **MySQL**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> **SQL Server**
 
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30"/> **Zabbix / Grafana**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30"/> **Zabbix / Grafana**   -   <img src="https://cdn.jsdelivr.net/npm/newrelic@13.0.0/+esm" width="30"/> **Newrelic**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> **Docker**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> **Kubernetes**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" width="30"/> **Packer**
 
 </div>
@@ -55,4 +56,4 @@ Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e 
 
 ---
 
-<p align="center">Feito com 💙 por João Borges</p>
+
