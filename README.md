@@ -50,8 +50,8 @@ Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e 
 ## ✉️ Contato
 
 - 📧 Email: joaol.borges@outlook.com
-- 🌐 LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-schimith-borges-8aa32ba5/)  
-- 💼 GitHub: [github.com/seu-usuario](https://github.com/joaosborges)
+- 🌐 LinkedIn: [João Borges](https://www.linkedin.com/in/jo%C3%A3o-lucas-schimith-borges-8aa32ba5/)  
+- 💼 GitHub: [joaosborges](https://github.com/joaosborges)
 
 ---
 
