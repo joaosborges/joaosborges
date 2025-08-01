@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-schimith-borges-8aa32ba5/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/joaosborges)
 
-Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e Cloud**, com foco em automações, infraestrutura como código e ambientes na **Azure**. Tenho experiência prática com ferramentas como **PowerShell**, **Azure DevOps**, **Zabbix**, **Grafana** e bancos de dados como o **SQL Server**.
+Sou especializado em garantir a estabilidade, alta disponibilidade e performance de infraestruturas críticas para o negócio. Possuo sólida experiência na implantação de sistemas e aplicações, atuando na transformação de desafios complexos em soluções escaláveis e eficientes, com foco na otimização de custos e desempenho. Tenho forte interesse e dedicação à automação de processos, especialmente no provisionamento de recursos, com o objetivo de promover melhorias contínuas e aumentar a eficiência operacional.
 
 ---
 
@@ -20,6 +20,8 @@ Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e 
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30"/> **Zabbix / Grafana**   -   <img src="https://cdn.simpleicons.org/newrelic" width="30"/> **Newrelic**
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> **Docker**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> **Kubernetes**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" width="30"/> **Packer**
 
 </div>
