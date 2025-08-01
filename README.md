@@ -35,7 +35,7 @@ Aprendizado contínuo: Kubernetes (k8s), Docker
 ## 📦 Projetos em destaque
 
 - **📁 [Azure VM Image Gallery Update Automation](https://github.com/seu-usuario/azure-infra-provisioner)**  
-  Automação de provisionamento de infraestrutura na Azure utilizando PowerShell e templates ARM.
+  Automação de atualização de imagens salvas dentro do Azure Compute Gallerie: Windows update, atualizações de arquivos, instalação de pacotes e etc...
 
 - **📁 [Scripts úteis (Useful Scripts)](https://github.com/joaosborges/Useful-Scripts)**  
   Repositório com scripts de rotina para administração de sistemas e suporte.
