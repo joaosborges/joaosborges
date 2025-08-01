@@ -40,7 +40,6 @@ Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e 
 
 ## 📈 Em aprendizado contínuo
 
-- Terraform
 - Docker
 - GitHub Actions
 - Kubernetes (K8s)
@@ -50,9 +49,9 @@ Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e 
 
 ## ✉️ Contato
 
-- 📧 Email: joao.borges@email.com  
-- 🌐 LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)  
-- 💼 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+- 📧 Email: joaol.borges@outlook.com
+- 🌐 LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-schimith-borges-8aa32ba5/)  
+- 💼 GitHub: [github.com/seu-usuario](https://github.com/joaosborges)
 
 ---
 
