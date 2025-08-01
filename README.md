@@ -5,6 +5,10 @@
 
 Sou especializado em garantir a estabilidade, alta disponibilidade e performance de infraestruturas críticas para o negócio. Possuo sólida experiência na implantação de sistemas e aplicações, atuando na transformação de desafios complexos em soluções escaláveis e eficientes, com foco na otimização de custos e desempenho. Tenho forte interesse e dedicação à automação de processos, especialmente no provisionamento de recursos, com o objetivo de promover melhorias contínuas e aumentar a eficiência operacional.
 
+Tech Stack: Azure Administrator, Azure CLI, Azure DevOps, PowerShell, Bash, ARM Templates, Packer (HashiCorp), Zabbix, Grafana, New Relic, Windows e Linux Server, GitOps, SQL Server, MySQL
+
+Aprendizado contínuo: Kubernetes (k8s), Docker
+
 ---
 
 ## 🚀 Tech Stack
@@ -30,13 +34,10 @@ Sou especializado em garantir a estabilidade, alta disponibilidade e performance
 
 ## 📦 Projetos em destaque
 
-- **📁 [Azure Infra Provisioner](https://github.com/seu-usuario/azure-infra-provisioner)**  
+- **📁 [Azure VM Image Gallery Update Automation](https://github.com/seu-usuario/azure-infra-provisioner)**  
   Automação de provisionamento de infraestrutura na Azure utilizando PowerShell e templates ARM.
 
-- **📁 [DevOps Monitor Suite](https://github.com/seu-usuario/devops-monitor-suite)**  
-  Integração de Zabbix + Grafana com scripts automatizados para ambientes pequenos e médios.
-
-- **📁 [Scripts PowerShell úteis](https://github.com/seu-usuario/powershell-utilities)**  
+- **📁 [Scripts úteis (Useful Scripts)](https://github.com/joaosborges/Useful-Scripts)**  
   Repositório com scripts de rotina para administração de sistemas e suporte.
 
 ---
