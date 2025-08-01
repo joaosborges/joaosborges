@@ -3,11 +3,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-schimith-borges-8aa32ba5/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/joaosborges)
 
-Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e Cloud**, com foco em automações, infraestrutura como código e ambientes na **Azure**. Tenho experiência prática com ferramentas como **PowerShell**, **Azure DevOps**, **Zabbix**, **Grafana** e bancos de dados como o **SQL Server**.
+Sou especializado em garantir a estabilidade, alta disponibilidade e performance de infraestruturas críticas para o negócio. Possuo sólida experiência na implantação de sistemas e aplicações, atuando na transformação de desafios complexos em soluções escaláveis e eficientes, com foco na otimização de custos e desempenho. Tenho forte interesse e dedicação à automação de processos, especialmente no provisionamento de recursos, com o objetivo de promover melhorias contínuas e aumentar a eficiência operacional.
+
+Tech Stack: Azure Administrator, Azure CLI, Azure DevOps, PowerShell, Bash, ARM Templates, Packer (HashiCorp), Zabbix, Grafana, New Relic, Windows e Linux Server, GitOps, SQL Server, MySQL
+
+Aprendizado contínuo: Kubernetes (k8s), Docker
 
 ---
 
 ## 🚀 Tech Stack
+
 
 <div align="left">
 
@@ -18,7 +23,9 @@ Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> **MySQL**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> **SQL Server**
 
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30"/> **Zabbix / Grafana**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30"/> **Zabbix / Grafana**   -   <img src="https://cdn.simpleicons.org/newrelic" width="30"/> **Newrelic**
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> **Docker**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> **Kubernetes**    -    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" width="30"/> **Packer**
 
 </div>
@@ -27,20 +34,16 @@ Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e 
 
 ## 📦 Projetos em destaque
 
-- **📁 [Azure Infra Provisioner](https://github.com/seu-usuario/azure-infra-provisioner)**  
+- **📁 [Azure VM Image Gallery Update Automation](https://github.com/seu-usuario/azure-infra-provisioner)**  
   Automação de provisionamento de infraestrutura na Azure utilizando PowerShell e templates ARM.
 
-- **📁 [DevOps Monitor Suite](https://github.com/seu-usuario/devops-monitor-suite)**  
-  Integração de Zabbix + Grafana com scripts automatizados para ambientes pequenos e médios.
-
-- **📁 [Scripts PowerShell úteis](https://github.com/seu-usuario/powershell-utilities)**  
+- **📁 [Scripts úteis (Useful Scripts)](https://github.com/joaosborges/Useful-Scripts)**  
   Repositório com scripts de rotina para administração de sistemas e suporte.
 
 ---
 
 ## 📈 Em aprendizado contínuo
 
-- Terraform
 - Docker
 - GitHub Actions
 - Kubernetes (K8s)
@@ -50,10 +53,10 @@ Sou um entusiasta de tecnologia e profissional iniciante na área de **DevOps e 
 
 ## ✉️ Contato
 
-- 📧 Email: joao.borges@email.com  
-- 🌐 LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)  
-- 💼 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+- 📧 Email: joaol.borges@outlook.com
+- 🌐 LinkedIn: [João Borges](https://www.linkedin.com/in/jo%C3%A3o-lucas-schimith-borges-8aa32ba5/)  
+- 💼 GitHub: [joaosborges](https://github.com/joaosborges)
 
 ---
 
-<p align="center">Feito com 💙 por João Borges</p>
+
